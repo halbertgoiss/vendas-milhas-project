@@ -13,4 +13,4 @@ export default defineConfig({
   tanstackStart: {
     server: { entry: "server" },
   },
-});https://vendas-milhas-project.vercel.app/
+});
