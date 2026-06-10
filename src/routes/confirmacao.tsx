@@ -58,7 +58,7 @@ function Page() {
         </div>
 
         <a
-          href="https://wa.me/5500000000000"
+          href="https://wa.me/5544984041673"
           target="_blank"
           rel="noreferrer"
           className="block w-full h-14 leading-[3.5rem] rounded-pill bg-gradient-accent text-white font-bold hover:shadow-glow hover:-translate-y-0.5 transition-all active:scale-[0.97]"
